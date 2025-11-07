@@ -94,6 +94,6 @@ El sistema se inicia con un Driver Program que debe implementar el siguiente men
 
 ---
 
-*Desarrollado por: [Tu Nombre / Nombres del Grupo]*
+*Desarrollado por: [Clever/ Grupo 15 laboratorio 4*
 *Curso: CC2008 - Programación Orientada a Objetos*
 *Semestre: II, 2025*
