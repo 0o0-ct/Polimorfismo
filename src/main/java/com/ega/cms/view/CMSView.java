@@ -14,7 +14,7 @@ public class CMSView {
         System.out.println("--- All Contents ---");
         for (Content content : controller.getContents()) {
             content.display();
-            System.out.println("--------------------");
+            System.out.println("========================================================");
         }
     }
 }
