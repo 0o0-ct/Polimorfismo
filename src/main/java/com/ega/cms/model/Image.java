@@ -44,3 +44,4 @@ public class Image extends Content implements Publishable, Searchable {
         return getTitle().contains(keyword) || altText.contains(keyword);
     }
 }
+
