@@ -44,3 +44,4 @@ public class Video extends Content implements Publishable, Searchable {
         return getTitle().contains(keyword);
     }
 }
+
