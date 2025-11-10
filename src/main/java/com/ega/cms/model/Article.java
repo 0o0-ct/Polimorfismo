@@ -33,3 +33,4 @@ public class Article extends Content implements Publishable, Searchable {
         return getTitle().contains(keyword) || text.contains(keyword);
     }
 }
+
